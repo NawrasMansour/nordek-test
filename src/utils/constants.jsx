@@ -1,1 +1,1 @@
-export const api_url = "";
+export const api_url = "https://api.geckoterminal.com/api/v2/simple/networks/eth/token_price";
